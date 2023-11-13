@@ -4,4 +4,4 @@
 ## Kelas: T.I 22.A3
 
 # Output
-![gambar](/Tugas/Tugas%20Pemograman%20Mobile/UTS%20Mobile/pm1.PNG)
+![gambar](https://github.com/Hendraparsaulian28/UTS-Pemograman-Mobile/blob/main/pm1.PNG)
