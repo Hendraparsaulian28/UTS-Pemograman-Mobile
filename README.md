@@ -3,6 +3,5 @@
 ## Nim: 312210689
 ## Kelas: T.I 22.A3
 
-# Output HelloToast
-app
+# Output HelloToast app
 ![gambar](https://github.com/Hendraparsaulian28/UTS-Pemograman-Mobile/blob/main/pm1.PNG)
